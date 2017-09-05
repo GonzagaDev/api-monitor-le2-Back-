@@ -1,0 +1,1 @@
+web: clean package -U wildfly:deploy
